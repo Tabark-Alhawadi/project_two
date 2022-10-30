@@ -25,3 +25,7 @@
     font-size: 40px;
     color: #A460ED;
 }
+
+.card{
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+}
