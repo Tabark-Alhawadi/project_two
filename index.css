@@ -1,11 +1,19 @@
 *{
     font-family: 'Josefin Sans', sans-serif;
-}
+} 
 
+body::before{
+    content: '';
+    display: block;
+    height: 50px;
+}
 .name{
     color: #A460ED;
 }
 
+.btn{
+    background-color: #00B2EE;
+}
 .img-fluid{
     border-radius: 10%;
     width: 30%;
@@ -28,4 +36,65 @@
 
 .card{
     box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    background-color: black;
+    color: white;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.email{
+    text-decoration: none;
+    color: black;
+}
+ 
+.row{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+#logo{
+    width:4vw;
+}
+
+.Home{
+    background-color: black;
+    color: white;
+}
+
+.Projects{
+    background-color: black;
+    color:#00B2EE;
+}
+
+.Projects h1 h4{
+    color: #00B2EE;
+}
+
+.Skills{
+    background-color: black;
+    color: white;
+}
+
+.Contact{
+ background-color: white;
+ color: black;
+ text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.logo2{
+    width: 5vw;
 }
