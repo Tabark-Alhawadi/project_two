@@ -71,11 +71,19 @@ body::before{
 
 .Projects{
     background-color: black;
-    color:#00B2EE;
+    color:#ffffff;
 }
 
 .Projects h1 h4{
     color: #00B2EE;
+}
+
+.pro1{
+    width: 60%;
+}
+
+.pro2{
+    width: 65%;
 }
 
 .Skills{
@@ -89,6 +97,14 @@ body::before{
  text-align: center;
 }
 
+.fa-phone{
+    color: black;
+font-size: 20px;
+}
+
+.fa-phone p{
+    font-size: 20px;
+}
 footer{
     background-color: black;
     color: white;
@@ -96,5 +112,10 @@ footer{
 }
 
 .logo2{
-    width: 5vw;
+    width: 3vw;
+}
+
+.dow{
+    padding-top: 1.5%;
+    background-color: #A460ED;
 }
