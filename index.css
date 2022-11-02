@@ -71,20 +71,18 @@ body::before{
 
 .Projects{
     background-color: black;
-    color:#ffffff !important;
+    
 }
 
-.Projects h1 h4{
-    color: #00B2EE;
-}
 
-.pro1{
-    width: 60% !important;
-}
 
-.pro2{
-    width: 65% !important;
-}
+/* .pro1{
+     !important;
+} */
+
+/* .pro2{
+     !important;
+} */
 
 .Skills{
     background-color: black;
@@ -111,9 +109,9 @@ footer{
     text-align: center;
 }
 
-.logo2{
-    width: 3vw !important;
-}
+/* .logo2{
+    !important;
+} */
 
 .dow{
     padding-top: 1.5% !important;
